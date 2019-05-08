@@ -1,4 +1,4 @@
-# Final Projectf for 16-350, Planning Techniques for Robotics
+# Final Project for 16-350, Planning Techniques for Robotics
 ### Andrew Saba (asaba)
 
 The planner is written using ROS kinetic and C++ 11.
