@@ -4,10 +4,10 @@
 The planner is written using ROS kinetic and C++ 11.
 
 ## Build and run:
-- To build and run, just run one of the two provided shell scripts
-  - build_and_launch.sh and 
-  - build_and_launch_without_obstacles.sh)
-- The second disables checking for obstacles and only generates a feasible trajectory but makes no checks for collisions.
+- To build and run, just run one of the two provided shell scripts:
+  - `build_and_launch.sh`
+  - `build_and_launch_without_obstacles.sh`
+- The second disables checking for obstacles and only generates a feasible trajectory, but makes no checks for collisions.
 
 ## To Visualize:
 - Run RVIZ and add visualization for the following topics: 
